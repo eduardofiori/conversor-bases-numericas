@@ -1,8 +1,8 @@
 # Conversor de bases numéricas
 
-**Autor:** Eduardo Fiori
-**Disciplina:** Arquitetura e Organização de Computadores
-**Instituição:** Fatec - Ribeirão Preto
+- **Autor:** Eduardo Fiori
+- **Disciplina:** Arquitetura e Organização de Computadores
+- **Instituição:** Fatec - Ribeirão Preto
 
 Programa em Python que converte números inteiros entre as bases 2 (binário), 4 (quaternário), 8 (octal), 10 (decimal) e 16 (hexadecimal), em qualquer direção. O cálculo segue o método manual de conversão: soma de potências para chegar à base 10 e divisões sucessivas para sair dela.
 
